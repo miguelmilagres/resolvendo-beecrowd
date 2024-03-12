@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class uri1008 {
+public class Uri1008 {
  
     public static void main(String[] args) throws IOException {
  

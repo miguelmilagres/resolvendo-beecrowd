@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class uri1003 {
+public class Uri1003 {
  
     public static void main(String[] args) throws IOException {
  
@@ -14,7 +14,7 @@ public class uri1003 {
 
         System.out.printf("SOMA = %d%n", A + B);
 
-        sc.locale();
+        sc.close();
     }
  
 }

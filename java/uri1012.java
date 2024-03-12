@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class uri1012 {
+public class Uri1012 {
  
     public static void main(String[] args) throws IOException {
         Locale.setDefault(Locale.US);
@@ -27,6 +27,8 @@ public class uri1012 {
         System.out.printf("TRAPEZIO: %.3f%n", areaTrapezio);
         System.out.printf("QUADRADO: %.3f%n", areaQuadrado);
         System.out.printf("RETANGULO: %.3f%n", areaRetangulo);
+
+        sc.close();
     }
  
 }

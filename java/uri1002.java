@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner; 
 import java.util.Locale;
 
-public class uri1002 {
+public class Uri1002 {
  
     public static void main(String[] args) throws IOException {
  
@@ -15,7 +15,7 @@ public class uri1002 {
 
         System.out.printf("A=%.4f%n", area);
 
-        sc.locale();
+        sc.close();
     }
  
 }

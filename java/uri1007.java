@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-public class uri1007 {
+public class Uri1007 {
  
     public static void main(String[] args) throws IOException {
  
@@ -17,7 +17,7 @@ public class uri1007 {
 
         System.out.printf("DIFERENCA = %d%n", diferenca);
  
-        sc.locale();
+        sc.close();
     }
  
 }
